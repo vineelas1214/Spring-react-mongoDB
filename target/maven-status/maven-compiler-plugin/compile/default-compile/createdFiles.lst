@@ -1,0 +1,5 @@
+com\tests4geeks\tutorials\repository\CarSearchRepository.class
+com\tests4geeks\tutorials\model\Car.class
+com\tests4geeks\tutorials\MongoTutorialApplication.class
+com\tests4geeks\tutorials\repository\CarMongoRepository.class
+com\tests4geeks\tutorials\controllers\CarController.class
